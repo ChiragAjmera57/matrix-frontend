@@ -273,7 +273,6 @@ font-family: "Kanit", sans-serif;
 font-weight: 800;
 font-style: normal;
 font-size: 85px;
-/* color: rgba(240, 246, 251, 1); */
 line-height: 120px;
 align-items: start;
 width: max-content;
@@ -296,7 +295,7 @@ animation-name: houseImage;
 animation-duration: 2s;
 animation-fill-mode: forwards;
 filter: drop-shadow(-10px -10px 15px 0px rgba(0, 0, 0, 0.76)), drop-shadow(10px 10px 15px 0px rgba(0, 0, 0, 0.76)) ;
-/* z-index: 10; */
+
 }
 
 .defi{
@@ -306,6 +305,8 @@ animation-name: title02;
 animation-duration: 2s;
 animation-fill-mode: forwards;
 }
+
+
 
 .bitcoin{
 color:rgba(254, 204, 0, 1);
@@ -362,6 +363,7 @@ animation-fill-mode: forwards;
   left: 0%;
 }
 }
+
 
 @keyframes houseImage {
 0%{
