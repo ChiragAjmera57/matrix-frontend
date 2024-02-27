@@ -1,8 +1,6 @@
 "use client"
 import React, { useEffect, useState } from "react";
-import Image from "next/image";
 import vectorLine from "../../Asset/VectorLineYellow.png";
-import bitLogo from "../../Asset/BitLogo.png";
 import { TokenCard } from "./TokenCard";
 import { HeadingSnip } from "./HeadingSnip";
 import {getData} from '../util/fetchToken';

@@ -1,6 +1,5 @@
 import Image, { StaticImageData } from 'next/image'
 import React from 'react'
-import bitLog from '../../Asset/BitLogo.png'
 interface ProductCartProps {
     vectorLine: StaticImageData; 
   }

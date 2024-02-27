@@ -3,7 +3,6 @@ import React from "react";
 import email from "../../Asset/email.png";
 import twitter from "../../Asset/twitter shape.png";
 import insta from "../../Asset/insta.png";
-import union from "../../Asset/Union.png";
 
 export const ContactUsBox = () => {
   return (

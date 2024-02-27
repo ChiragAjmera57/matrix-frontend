@@ -1,6 +1,5 @@
 /* eslint-disable @next/next/no-page-custom-font */
 import Image from "next/image";
-import { Roadmap } from "./components/Roadmap";
 import { Ourtoken } from "./components/Ourtoken";
 import { OurProduct } from "./components/OurProduct";
 import { ContactUsBox } from "./components/ContactUsBox";
