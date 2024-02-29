@@ -12,7 +12,28 @@ interface Element {
   email: string;
 }
 export const Ourtoken = () => {
-  const [data, setData] = useState<Element[]>([]);
+ const [data, setData] = useState<Element[]>([
+    { id: 1,
+      name: "string",
+      email: "string"
+    }, 
+    { id: 1,
+      name: "string",
+      email: "string"}, 
+      { id: 1,
+        name: "string",
+        email: "string"}, 
+        { id: 1,
+          name: "string",
+          email: "string"}, 
+          { id: 1,
+            name: "string",
+            email: "string"}, 
+            { id: 1,
+              name: "string",
+              email: "string"}, 
+   
+  ]);
 
   useEffect(() => {
     getData()

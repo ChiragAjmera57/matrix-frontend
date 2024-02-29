@@ -7,7 +7,7 @@ import insta from "../../Asset/insta.png";
 export const ContactUsBox = () => {
   return (
     <div className="bg-black w-full flex justify-center p-5 relative ">
-      <div className="border-2 rounded-2xl border-customGolden flex px-24 py-12 justify-between w-1/2 mt-auto items-center scroll-animation">
+      <div className="border-2 rounded-2xl border-customGolden flex px-24 py-12 justify-between w-1/2 mt-auto items-center">
         <div className="">
           <p className="text-white text-xl font-bold">
             Join our <span className="block text-customYellow">Community</span>
